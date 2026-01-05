@@ -20,7 +20,7 @@ All EEG analysis scripts used in the thesis are provided below, grouped by analy
 - `BP_Onset_FullTrial_FOOOF.py` – optional full-trial FOOOF for ASMR trials with presses  
 
 ### Time-Frequency and ERP Analyses
-- `EEGtfASMRvControl.py` – time–frequency decomposition (ASMR vs Control)  
+- `EEG tf ASMRvControl.py` – time0frequency decomposition (ASMR vs Control)  
 - `ThesisERP_ButtonPressOnset.py` – ERP analysis around button-press onset  
 
 All scripts were implemented in Python 3.11 using MNE-Python v1.7, Matplotlib, NumPy, and SpecParam (FOOOF). Figures in Chapter 3 correspond directly to the outputs from these scripts.
