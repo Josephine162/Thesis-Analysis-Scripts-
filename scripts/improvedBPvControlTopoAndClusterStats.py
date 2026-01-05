@@ -1,6 +1,6 @@
 # Button-press ASMR (any press) vs Control: group topomaps + cluster stats
 # Compatible with older MNE plot_topomap API (vlim tuple), avoids layout issues.
-# Exports figures and a CSV of per-subject cluster metrics.
+# Exports figures and a CSV of per-subject cluster metrics
 """
 
 import os
